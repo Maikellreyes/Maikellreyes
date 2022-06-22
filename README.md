@@ -1,8 +1,10 @@
-#🖐🏻olá sou Maikell reyes
+<h1>🖐🏻olá sou Maikell reyes</h1>
 
--sou de venezuela 
--estudo ingles e programação
--trabalho com front-end
+<P>
+  <li>sou de venezuela</li>
+  <li>estudo ingles e programação</li>
+  <li>trabalho com front-end</li>
+</p>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
